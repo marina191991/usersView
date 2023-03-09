@@ -1,0 +1,15 @@
+{
+    "name": "macbookair/users-view",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "macbookair",
+            "email": "martiniz1901@gmail.com"
+        }
+    ],
+    "require": {}
+}
